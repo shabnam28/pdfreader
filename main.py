@@ -6,7 +6,7 @@ import os, json, re, pandas as pd, glob
 # ======================================================
 # CONFIGURATION
 # ======================================================
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "cv-analyser-agent-c8418833717d.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "analyser-agent.json"
 project_id = os.environ["PROJECT_ID"]
 docai_location = os.environ["LOCATION"] 
 vertex_location = os.environ ["VERTEX_LOCATION"]    
