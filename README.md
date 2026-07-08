@@ -13,7 +13,7 @@ Step-by-Step Explanation
 5. Extract Text from PDF
 8. Save Data to CSV
 
-<img src="./assets/image.svg" alt="Architecture Diagram" width="700"/>
+<img src="./assets/image.svg" alt="Architecture Diagram" width="900"/>
  
 Enable Document AI API:
 
