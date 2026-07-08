@@ -12,7 +12,9 @@ Step-by-Step Explanation
 4. Build Prompt for Gemini
 5. Extract Text from PDF
 8. Save Data to CSV
-   
+
+<img src="./assets/image.svg" alt="Architecture Diagram" width="700"/>
+ 
 Enable Document AI API:
 
 Go to the Google Cloud Console.
